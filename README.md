@@ -1,1 +1,1 @@
-# echo-mongodb-api
+Golang REST-API with Echo Framework & MongoDB
